@@ -1,2 +1,2 @@
-def get_employees():
-    print('START get_employees')
+def get_employees(date):
+    print(f'{date} : START get_employees')
